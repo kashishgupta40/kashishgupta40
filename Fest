@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h class="main">
+        Festilicious
+    </h>
+</body>
+
+<style>
+    body {
+        background-image: url('bg.png');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size:100% 100%;
+    }
+</style>
+
+<style>
+    .main {
+        font-size: 100px;
+        margin-left: 525px;
+        display: flex;
+        justify-content: center;
+    }
+</style>
+
+</html>
