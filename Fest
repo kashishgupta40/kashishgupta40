@@ -6,27 +6,94 @@
     <title>Document</title>
 </head>
 <body>
-    <h class="main">
-        Festilicious
-    </h>
+    <h class="main ">
+        Festilicious</h>
+        <h3 class="box">Taste every kind of FUN !!</h3>
+    
+
+    <P class="text box1">
+        Do you wanna taste fun of every fest in Delhi NCR ??</P>
+        <p class="text box2">OR</p>
+        <p class="text box1"> Do you want more people to taste the fun of your fest ??</p>
+        <p class="text box3"> Be it anything we are here to help !! </P>
+
+    <input type="button" class="buttons">
 </body>
 
 <style>
     body {
-        background-image: url('bg.png');
+       background-image: url("Downloads/bg2.jpg");
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size:100% 100%;
+        
     }
 </style>
 
 <style>
     .main {
-        font-size: 100px;
-        margin-left: 525px;
+        color: rgba(255, 113, 47, 0.781);
+        font-size: 150px;
+        margin-top: 22px;
         display: flex;
         justify-content: center;
+        font-family: ' Comic Sans MS', 'Times New Roman', Times, serif;
     }
+.box{
+    margin: auto;
+    height:fit-content;
+    width:fit-content;
+    background-color:bisque;
+    overflow-wrap: break-word;
+    box-shadow: 10px 5px 5px bisque;
+    }
+    .text {
+        font-size: 25px;
+        font-weight: bold;
+        text-align: center;
+        color: rgb(42, 33, 8);
+    }
+    .buttons{
+        block-size: 50px 100px;
+    }
+
+    h3{
+        margin-left: 250px;
+        margin-top: 0px ;
+        font-family: Cursive,'Times New Roman';
+        color:brown;
+        font-size: larger;
+    }
+    .box1{
+    
+    display:flex;
+    justify-content: center;
+    height:fit-content;
+    width:fit-content;
+    background-color:whitesmoke;
+    overflow-wrap: break-word;
+    box-shadow: 10px 5px 5px whitesmoke;
+    }
+
+    .box2{
+    
+    margin-left: 250px;
+    height:fit-content;
+    width:fit-content;
+    background-color:whitesmoke;
+    overflow-wrap: break-word;
+    box-shadow: 10px 5px 5px whitesmoke;
+    }
+
+    .box3{
+    margin-left: 179px;
+    height:fit-content;
+    width:fit-content;
+    background-color:whitesmoke;
+    overflow-wrap: break-word;
+    box-shadow: 10px 5px 5px whitesmoke;
+    }
+
 </style>
 
 </html>
