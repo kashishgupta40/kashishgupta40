@@ -1,5 +1,8 @@
 # 👋 Hi There, I'm Kashish Gupta
 
+![Profile Views](https://komarev.com/ghpvc/?username=kashishgupta40&color=blue)
+
+
 🎓 B.Tech Information Technology student at GTBIT (IPU'26)  
 💻 MERN Stack Developer | Aspiring Software Developer  
 🚀 Currently building real-world apps using **ReactJS**, **Node.js**, **MongoDB**, and exploring **Java** & **Django**  
