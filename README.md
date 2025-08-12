@@ -40,7 +40,7 @@
 
 - 🔎 [Recipe Finder](https://github.com/kashishgupta40/recipe-finder) — React-based recipe search app using external API  
 - 🌐 [Landing Page Sample](https://github.com/kashishgupta40/landing-page-sample) — Responsive web landing page hosted on Vercel   
-- 📊 [Data Visualization Dashboard (WIP)] — MERN-based dashboard using D3.js & MongoDB  
+
 
 ---
 
